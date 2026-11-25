@@ -1,3 +1,9 @@
 *.o
 *.exe
 main
+
+# binarios de kernel/
+copiar
+ej1
+ej2
+minips
